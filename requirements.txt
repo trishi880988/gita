@@ -1,4 +1,6 @@
 pyrogram==2.0.106
-tgcrypto
-motor
-pymongo
+motor==3.5.1
+APScheduler==3.10.4
+python-dotenv==1.0.1
+aiofiles==24.1.0
+pandas==2.2.3
